@@ -11,5 +11,4 @@ https://cctvalih5c.v.myalicdn.com/live/cdrmcctv12_1td.m3u8
 https://cctvalih5c.v.myalicdn.com/live/cdrmcctv13_1td.m3u8
 
 只需要这样就可以切换到央视十三新闻频道。
-可能这些内容对于一部分人来说做到这些轻而易举，但是这是我第一次分享一些内容，还是希望到鼓励，
-所以我希望这些内容能够帮助到你，感谢在这个平台的各位。
+希望这些内容能够帮助到你，感谢在这个平台的各位。
